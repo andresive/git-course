@@ -8,3 +8,6 @@ modificando o arquivo para testar
 
 gostando do curso sobre git aprendendo bastante
 
+teste de modificação do arquivo para subir para o repositorio remoto
+
+
